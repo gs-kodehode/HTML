@@ -1,0 +1,55 @@
+h1 {
+  color: black;
+  font-family: "Nerko One", cursive;
+}
+ul {
+  float: right;
+  color: rgb(15, 13, 13);
+  background-color: rgb(244, 184, 184);
+  margin-top: 10px;
+  margin-right: 50px;
+  font-size: 17px;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul li a {
+  color: black;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.5 ease;
+}
+
+p {
+  color: rgb(204, 234, 205);
+  background-color: rgb(10, 1, 18);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: black;
+  background-color: lightgrey;
+}
+
+.cool-heading {
+  color: black;
+}
+
+.img {
+  position: relative;
+}
+
+h3 {
+  color: rgb(71, 210, 71);
+  background-color: black;
+}
+
+#kitty-img {
+  scale: 0.9;
+}
+
+#white-kitty {
+  scale: 0.7;
+}
